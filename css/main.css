@@ -1,0 +1,15 @@
+body{ 
+    background-color: #1b6ca8;
+}
+
+.container{
+    background-color: #0a97b0;
+}
+.fa-remove:hover{
+    color: #ffd3e1;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+    color: #fff;
+}
